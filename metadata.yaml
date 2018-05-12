@@ -1,0 +1,40 @@
+_repo: At-the-Age-of-Eve_40316
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Meylan, Paul Julian
+    aliases:
+    - Meylan, Paul Julien
+    - Meylan, Paul J.
+    birthdate: 1882
+    deathdate: 1961
+    gutenberg_agent_id: '7842'
+    url: http://www.gutenberg.org/2009/agents/7842
+covers:
+- cover_type: archival
+  image_path: 40316-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sharber, Kate Trimble
+    birthdate: 1883
+    gutenberg_agent_id: '40477'
+    url: http://www.gutenberg.org/2009/agents/40477
+description: ''
+gutenberg_issued: '2012-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40316'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Diary fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Southern States -- Social life and customs -- Fiction'
+- !lcsh 'City and town life -- Fiction'
+- !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
+title: At the Age of Eve
+url: http://www.gutenberg.org/ebooks/40316
